@@ -36,7 +36,7 @@ Requires [Pillow](https://pillow.readthedocs.io/en/stable/index.html). Run with
 python lesbian.py [phrase to turn into a flag]
 ```
 
-The output is displayed and saved as an example ~~to the others~~.
+The output is displayed and saved as an example ~~to the others~~. Any non-letters in the phrase are ignored in the flag (but still used for naming the output file).
 
 ## Test
 
